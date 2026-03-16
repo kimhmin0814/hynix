@@ -11,7 +11,7 @@ class OracleCheckpointSaver(BaseCheckpointSaver):
     def __init__(self, user: str, password: str, dsn: str):
         """
         user     : Oracle DB 사용자명
-        password : Oracle DB 비밀번호
+        password : Oracle DB 비밀번호ㅐㅐ
         dsn      : 'host:port/service_name' 형식
         """
         super().__init__()
